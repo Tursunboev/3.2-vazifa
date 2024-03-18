@@ -6,6 +6,10 @@ body {
   font-family: 'Montserrat', sans-serif;
     height: 100%;
   background-color: #F2EAE2 ;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
 }
 *{
     margin: 0;
